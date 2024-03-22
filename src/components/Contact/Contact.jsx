@@ -81,4 +81,3 @@ const Contact = () => {
 };
 
 export default Contact;
-// contact page
